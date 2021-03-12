@@ -72,11 +72,19 @@
         <section-content>
             <h3 class="subtitle">Projetos</h3>
             <grid-items columns="3" columns_mobile="1">
+                 <card-project>
+                    <span slot="image"><img src="@/assets/images/sistema-de-selecao.png" /></span>
+                    <span slot="title">Site | Guilherme Studier</span>
+                    <span slot="desc">Projeto de portifólio/currículo para apresentar minhas habilidades, experiências, formação e etc.</span>
+                    <span slot="link"><a href="https://guilhermestudier.vercel.app/#/" target="_blank" rel="noopener noreferrer">Visualizar projeto</a></span>
+                    <span slot="link-github"><a href="https://github.com/guilherme-studier/guillherme-studier-curriculum" target="_blank" rel="noopener noreferrer"><i class="fab fa-github"></i></a></span>
+                    <span slot="list">VueJs, HTML, CSS</span>
+                </card-project>
                 <card-project>
                     <span slot="image"><img src="@/assets/images/sistema-de-selecao.png" /></span>
                     <span slot="title">Projeto Churrasco</span>
                     <span slot="desc">Projeto prático final</span>
-                    <span slot="link"><a href="" target="_blank" rel="noopener noreferrer">Visualizar projeto</a></span>
+                    <!-- <span slot="link"><a href="" target="_blank" rel="noopener noreferrer">Visualizar projeto</a></span> -->
                     <span slot="link-github"><a href="https://github.com/guilherme-studier/desafio-churrasco" target="_blank" rel="noopener noreferrer"><i class="fab fa-github"></i></a></span>
                     <span slot="list">HTML, CSS, PHP</span>
                 </card-project>
@@ -84,7 +92,7 @@
                     <span slot="image"><img src="@/assets/images/sistema-de-selecao.png" /></span>
                     <span slot="title">Tela de Login</span>
                     <span slot="desc">Projeto prático</span>
-                    <span slot="link"><a href="" target="_blank" rel="noopener noreferrer">Visualizar projeto</a></span>
+                    <!-- <span slot="link"><a href="" target="_blank" rel="noopener noreferrer">Visualizar projeto</a></span> -->
                     <span slot="link-github"><a href="https://github.com/guilherme-studier/projetoTelaLogin" target="_blank" rel="noopener noreferrer"><i class="fab fa-github"></i></a></span>
                     <span slot="list">HTML, CSS, JS</span>
                 </card-project>
@@ -92,7 +100,7 @@
                     <span slot="image"><img src="@/assets/images/sistema-de-selecao.png" /></span>
                     <span slot="title">Projeto Rocketseat</span>
                     <span slot="desc">Projeto prático</span>
-                    <span slot="link"><a href="" target="_blank" rel="noopener noreferrer">Visualizar projeto</a></span>
+                    <!-- <span slot="link"><a href="" target="_blank" rel="noopener noreferrer">Visualizar projeto</a></span> -->
                     <span slot="link-github"><a href="https://github.com/guilherme-studier/projeto-rocketseat" target="_blank" rel="noopener noreferrer"><i class="fab fa-github"></i></a></span>
                     <span slot="list">HTML, CSS, JS</span>
                 </card-project>
@@ -100,7 +108,7 @@
                     <span slot="image"><img src="@/assets/images/sistema-de-selecao.png" /></span>
                     <span slot="title">Projeto Send Email</span>
                     <span slot="desc">Projeto prático</span>
-                    <span slot="link"><a href="" target="_blank" rel="noopener noreferrer">Visualizar projeto</a></span>
+                    <!-- <span slot="link"><a href="" target="_blank" rel="noopener noreferrer">Visualizar projeto</a></span> -->
                     <span slot="link-github"><a href="https://github.com/guilherme-studier/App-Send-Email" target="_blank" rel="noopener noreferrer"><i class="fab fa-github"></i></a></span>
                     <span slot="list">HTML, CSS, PHP</span>
                 </card-project>
@@ -108,7 +116,7 @@
                     <span slot="image"><img src="@/assets/images/sistema-de-selecao.png" /></span>
                     <span slot="title">Projeto Help Desk</span>
                     <span slot="desc">Projeto prático</span>
-                    <span slot="link"><a href="" target="_blank" rel="noopener noreferrer">Visualizar projeto</a></span>
+                    <!-- <span slot="link"><a href="" target="_blank" rel="noopener noreferrer">Visualizar projeto</a></span> -->
                     <span slot="link-github"><a href="https://github.com/guilherme-studier/app-help-desk" target="_blank" rel="noopener noreferrer"><i class="fab fa-github"></i></a></span>
                     <span slot="list">HTML, CSS, PHP</span>
                 </card-project>
@@ -116,7 +124,7 @@
                     <span slot="image"><img src="@/assets/images/sistema-de-selecao.png" /></span>
                     <span slot="title">Projeto Spotify</span>
                     <span slot="desc">Projeto prático</span>
-                    <span slot="link"><a href="" target="_blank" rel="noopener noreferrer">Visualizar projeto</a></span>
+                    <!-- <span slot="link"><a href="" target="_blank" rel="noopener noreferrer">Visualizar projeto</a></span> -->
                     <span slot="link-github"><a href="https://github.com/guilherme-studier/projeto-spotify" target="_blank" rel="noopener noreferrer"><i class="fab fa-github"></i></a></span>
                     <span slot="list">HTML, CSS, PHP</span>
                 </card-project>
