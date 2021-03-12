@@ -166,7 +166,7 @@
             <br />
         </section-content>
         <footer-vue>
-            © 2021 • Todos os direitos reservador • Thiago Studier
+            © 2021 • Todos os direitos reservador • Guilherme Studier
         </footer-vue>
     </span>
 </template>
